@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Project A Project B"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This is an about me page"
+  },
+  {
+    "objectID": "about.html#what-is-my-mission",
+    "href": "about.html#what-is-my-mission",
+    "title": "About",
+    "section": "What is my mission?",
+    "text": "What is my mission?"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Michelle Chen",
+    "section": "",
+    "text": "Enter your biography blurb here."
+  }
+]
